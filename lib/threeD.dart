@@ -7,7 +7,7 @@ class ThreeDSection extends StatelessWidget {
       child: ListView(
         children: [
           ListTile(
-            title: Text('Hey There'),
+            title: Text("3D simulations in your actual living room"),
           ),
         ],
       ),
